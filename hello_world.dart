@@ -1,4 +1,3 @@
-void main() {
-  print("hello world,");
-  print("learning 2");
+void main(){
+  
 }
